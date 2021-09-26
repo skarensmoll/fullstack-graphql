@@ -3,5 +3,46 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": 123123,
+      "name": "Negrito",
+      "type": "CAT",
+      "createdAt": "23423423"
+    },
+    {
+      "id": 234433,
+      "name": "Karma",
+      "type": "CAT",
+      "createdAt": "23423423"
+    },
+    {
+      "id": "fx_gcxCo06IBGzBWqxOmj",
+      "createdAt": 1632678188014,
+      "name": "Sandy",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "za6am5i3fprwwmWz4MaSL",
+      "createdAt": 1632678218908,
+      "name": "Sandy",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "fSD4N4D-oPnHbYPt4L904",
+      "createdAt": 1632678784970,
+      "name": "Sandy",
+      "type": "CAT",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    },
+    {
+      "id": "IVN6Mf4BW2p2X12ctKWnX",
+      "createdAt": 1632679143204,
+      "name": "23434",
+      "type": "DOG",
+      "user": "jBWMVGjm50l6LGwepDoty"
+    }
+  ]
 }
